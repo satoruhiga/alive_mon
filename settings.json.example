@@ -1,0 +1,17 @@
+{
+	"time_range":{
+		"start":"9:00",
+		"end":"18:00"
+	},
+	"target":[
+		{
+			"cmd":"~/Desktop/bin/emptyExample.app/Contents/MacOS/emptyExample",
+			"cwd":"~/Desktop/bin/"
+		},
+		{
+			"cmd":"/opt/local/bin/node ~/Desktop/bin/server.js"
+		}
+	],
+	"on_exit":[
+	]
+}

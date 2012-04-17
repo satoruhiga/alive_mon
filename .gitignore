@@ -1,0 +1,7 @@
+.svn
+.hg
+.cvs
+
+# osx
+*.app
+.DS_Store
